@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<updates>
+    <App appID="EnecaMyApplication">
+        <LatestVersion>2.0.0.0</LatestVersion>
+        <LatestVersionURL>https://github.com/PalbestGit/PalbestGit/raw/master/Folder/ShareModel%20v.1.2.2.exe</LatestVersionURL>
+        <md5>BE5C3CB05DFAFADAD4D14CAFDC6D376A</md5>
+        <Description>
+Some new features:
+    - new design
+    - new line 
+    - and so on
+        </Description>
+    </App>
+        <App appID="EnecaReSave Models">
+        <LatestVersion>2.0.0.0</LatestVersion>
+        <LatestVersionURL>https://github.com/PalbestGit/PalbestGit/raw/master/Folder/ShareModel%20v.1.2.2.exe</LatestVersionURL>
+        <md5>BE5C3CB05DFAFADAD4D14CAFDC6D376A</md5>
+        <Description>
+Some new features:
+    - new design
+    - new line 
+    - and so on
+        </Description>
+    </App>
+</updates>
