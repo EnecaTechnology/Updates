@@ -9,7 +9,7 @@
   <App appID="EnecaOpeningsManager">
     <LatestVersion>0.9.0.1</LatestVersion>
     <LatestVersionURL>https://github.com/EnecaTechnology/Updates/blob/master/Eneca/OpeningsManager/EnecaOpeningsManagerInstaller.exe?raw=true</LatestVersionURL>
-    <md5>3C687C7D8C8C27862A9B0720E9361475</md5>
+    <md5>3938EC825C2D244AE88012C8A3F706D8</md5>
     <DescriptionURL>https://raw.githubusercontent.com/EnecaTechnology/Updates/master/Eneca/OpeningsManager/UpdateInfo.txt</DescriptionURL>
   </App>
 </updates>
