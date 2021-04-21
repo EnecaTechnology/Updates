@@ -3,7 +3,7 @@
   <App appID="EnecaReSaveModels">
     <LatestVersion>1.5.2.0</LatestVersion>
     <LatestVersionURL>https://github.com/EnecaTechnology/Updates/blob/master/Eneca/ReSaveModels/EnecaReSaveModelsInstaller.exe?raw=true</LatestVersionURL>
-    <md5>5C128CBD38E36F9CB05716A107F1928A</md5>
+    <md5>62BAE423C00F4BA8328836B507029128</md5>
     <DescriptionURL>https://raw.githubusercontent.com/EnecaTechnology/Updates/master/Eneca/ReSaveModels/UpdateInfo.txt</DescriptionURL>
   </App>
   <App appID="EnecaOpeningsManager">
