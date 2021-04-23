@@ -13,9 +13,9 @@
     <DescriptionURL>https://raw.githubusercontent.com/EnecaTechnology/Updates/master/Eneca/OpeningsManager/UpdateInfo.txt</DescriptionURL>
   </App>
   <App appID="EnecaShareModel">
-    <LatestVersion>0.9.0.8</LatestVersion>
+    <LatestVersion>0.9.0.9</LatestVersion>
     <LatestVersionURL>https://github.com/EnecaTechnology/Updates/blob/master/Eneca/ShareModel/EnecaShareModelInstaller.exe?raw=true</LatestVersionURL>
-    <md5>A99009478118DD15DF7AC412D2BFF366</md5>
+    <md5>39B0E485479570BE51550C0DEB8ABDB3</md5>
     <DescriptionURL>https://raw.githubusercontent.com/EnecaTechnology/Updates/master/Eneca/ShareModel/UpdateInfo.txt</DescriptionURL>
   </App>
 </updates>
