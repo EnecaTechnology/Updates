@@ -7,15 +7,15 @@
     <DescriptionURL>https://raw.githubusercontent.com/EnecaTechnology/Updates/master/Eneca/ReSaveModels/UpdateInfo.txt</DescriptionURL>
   </App>
   <App appID="EnecaOpeningsManager">
-    <LatestVersion>0.9.0.9</LatestVersion>
+    <LatestVersion>0.9.0.10</LatestVersion>
     <LatestVersionURL>https://github.com/EnecaTechnology/Updates/blob/master/Eneca/OpeningsManager/EnecaOpeningsManagerInstaller.exe?raw=true</LatestVersionURL>
-    <md5>1449F1F90409CE44067813BA026E8A93</md5>
+    <md5>CD7562632E9521B3C48A0AC81BEDEC0E</md5>
     <DescriptionURL>https://raw.githubusercontent.com/EnecaTechnology/Updates/master/Eneca/OpeningsManager/UpdateInfo.txt</DescriptionURL>
   </App>
   <App appID="EnecaShareModel">
-    <LatestVersion>0.9.0.11</LatestVersion>
+    <LatestVersion>2.0.0.0</LatestVersion>
     <LatestVersionURL>https://github.com/EnecaTechnology/Updates/blob/master/Eneca/ShareModel/EnecaShareModelInstaller.exe?raw=true</LatestVersionURL>
-    <md5>CFE4DCBB176557A638D2143F5E4A415B</md5>
+    <md5>6C8A6650185C95A9FA3969F5D681A51E</md5>
     <DescriptionURL>https://raw.githubusercontent.com/EnecaTechnology/Updates/master/Eneca/ShareModel/UpdateInfo.txt</DescriptionURL>
   </App>
 </updates>
